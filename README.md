@@ -1,2 +1,3 @@
 # RhymeCountyTax
-We use here some sorting algorithms in java for arranging tax data.
+Hello! I shared this project because I thought this could be helpful for you about learning different sorting algorithms in Java. In this project we arrange the tax data of Misori. And apply different efficient sorting algorithms like Bubble sort, Insertioion sort, Selection sort, Merge sort and Quick sort. And also we define the running time of each of the sorting algorithm. I will recommend you to use eather eclipse or netbeans for running this project and checking on your each of it. You can download it from here. I also added my this project certificate and if you don't understand this than you can do this project on coursera names as Using Efficient Sorting Algorithms in Java to
+Arrange Tax Data. And here is the video link for detailed description of what we do in this project. 
