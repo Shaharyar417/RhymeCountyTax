@@ -1,4 +1,3 @@
-#RhymeCountyTax
 /---------------------------------------------------------------------------------------------
 /Code for the five sorting algorithms
 /Algorithms: Bubble Sort, Slection Sort, Insertion Sort, Merge Sort and Quick Sort
