@@ -1,3 +1,37 @@
-# RhymeCountyTax
-Hello! I shared this project because I thought this could be helpful for you about learning different sorting algorithms in Java. In this project we arrange the tax data of Misori. And apply different efficient sorting algorithms like Bubble sort, Insertioion sort, Selection sort, Merge sort and Quick sort. And also we define the running time of each of the sorting algorithm. I will recommend you to use eather eclipse or netbeans for running this project and checking on your each of it. You can download it from here. I also added my this project certificate and if you don't understand this than you can do this project on coursera names as Using Efficient Sorting Algorithms in Java to
-Arrange Tax Data. And here is the video link for detailed description of what we do in this project. 
+#RhymeCountyTax
+/---------------------------------------------------------------------------------------------
+/Code for the five sorting algorithms
+/Algorithms: Bubble Sort, Slection Sort, Insertion Sort, Merge Sort and Quick Sort
+/Choosing best sorting algorithms for situations
+/Language Used: Java Programing
+/
+/It is a project that I did form coursera
+/https://www.coursera.org/projects/sorting-tax-data-using-efficient-sorting-algorithms-in-java?
+/
+/Date: 07/23/2020
+/---------------------------------------------------------------------------------------------
+
+/---------------------------------------------------------------------------[ Description ]---
+
+The code that I provided in this repositoriy is of 5 sorting algorithms that I explained
+above. this is a project that I did from coursera. I have provided the link so that if you
+want to do it yourself from coursera and earn a certificate you can do it. I did this project
+by using Rhyme software that coursera provide as a platform for the project. In it you can work
+by side with your instructor.
+
+/==============[ What this project do? ]
+In this project, we sort the tax data of a city named as Missari. And tax data is big.
+We evaluate these tax data on different sorting algorithm and define the time complexity
+and also the space complecity of that sorting algorithms. And compare them with each other
+and fine the efficient soritng algorithm.
+
+/===========[ Setup ]
+You can download this project from my repositry and for running it and evaluating
+yourself, you can import this projct in any of the IDE of java. Like eclipse or netbeans.
+And by calling one sorting algorithm at one point and other separately you will see the 
+difference between them.
+
+/==========[ Link ]
+Morover I have provided the link of the video explanation of this project.
+If you can not understand yourself go and check my video on this.
+Link: link
